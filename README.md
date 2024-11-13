@@ -6,4 +6,4 @@ In this project, there are two games which is create using the Python programmin
 1. Snake-Water-Gun (Game)
 2. Guess perfect number (Game) 
 
-![Standpickup logo](https://github.com/abhaymishra24/Twice-Game.py/blob/main/python%20game%20project%201.jpg)
+![Standpickup logo](https://github.com/abhaymishra24/Twice-Game.py/blob/main/python%20game%20project.jpg)
