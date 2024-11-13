@@ -1,5 +1,5 @@
 
-## Twice Game (Based on the Python programming language) QQ
+## Twice Game (Based on the Python programming language)
 
 ##### In this project, there are two games that were created using the Python programming language - 
 
