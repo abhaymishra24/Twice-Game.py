@@ -37,7 +37,7 @@ According to the rules of this game, I wrote a Python program capable of playing
 3. Build a strong command of the Python language by creating this interesting project.
 4. Learn, Think, Create, Code, Fun.
 
-## Work and Learning by- [ Abhay Mishra 🧑‍💻 ]
+## Worked and Learned by- [ Abhay Mishra 🧑‍💻 ]
 
 I try to explore new interesting things and create using the Python programming language. Learning new libraries and functions in Python to upskill myself. Learn how to use the Python programming language in different technologies and build real-world projects.
 
