@@ -12,14 +12,14 @@ In this project, there are two games that were created using the Python programm
 
 In this project, I programmed two games in the Python programming language -
 
-### First Game - Snake-Water-Gun game, Here the rules of game-
+#### First Game - Snake-Water-Gun game, Here the rules of game-
 - Snake vs. Water: Snake drinks the water hence wins.
 - Water vs. Gun: The gun will drown in water, hence a point for water.
 - Gun vs. Snake: Gun will kill the snake and win.
 
 According to the rules of this game, I wrote a Python program capable of playing this game with the user.
 
-### Second Game - Guess-Perfect-Number game, Here are the game rules -
+#### Second Game - Guess-Perfect-Number game, Here are the game rules -
 
 - If the player’s guess is higher than the actual number, the program displays “Lower number please”.
 - Similarly, if the user’s guess is too low, the program prints “higher number please”.
