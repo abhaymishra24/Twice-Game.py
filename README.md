@@ -1,4 +1,7 @@
 
-# Twice-Game.py
+# Twice Game (Based on the Python programming language.)
 
-Two games: one is the Snake-Water-Gun game, and the second is the Guess the Number game. Create them using the Python programming language.
+In this project, there are two games which is create using the Python programming language.
+
+1. Snake-Water-Gun (Game)
+2. Guess perfect number (Game) 
