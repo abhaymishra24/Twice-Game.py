@@ -1,6 +1,12 @@
 
 # Here we write code for build Snake-Water-Gun game in Python language-
 
+'''
+Snake = 1
+Water = -1
+Gun = 0
+'''
+
 import random
 
 computer = random.choice([-1, 0, 1])
