@@ -12,7 +12,7 @@ import random
 computer = random.choice([-1, 0, 1])
 youstr = input("Enter your choice: ")
 youDict = {"s":1, "w": -1, "g": 0}
-reverseDict = {1: "Snake", -1: "Water", 0: "Gun"}
+reverseDict = {1: "Snake🐍", -1: "Water🌊", 0: "Gu🔫"}
 
 you = youDict[youstr]
 
@@ -21,27 +21,27 @@ you = youDict[youstr]
 print(f"You chose {reverseDict[you]}\nComputer chose {reverseDict[computer]}")
 
 if computer == you:
-    print("Hey!-Its a draw")
+    print("Hey!-Its a draw 🤝")
 
 else:
 
     if(computer == -1 and you == 1):
-        print("hurry, You win")
+        print("hurry🤩, You win🥳")
 
     elif(computer == -1 and you == 0):
-        print("Oh, You lose")
+        print("Oh🙁, You lose😐")
 
     elif(computer == 1 and you == -1):
-        print("Oh, You lose")
+        print("Oh🙁, You lose😐")
 
     elif(computer == 1 and you == 0):
-        print("hurry, You win")
+        print("hurry🤩, You win🥳")
 
     elif(computer == 0 and you == -1):
-        print("hurry, You win")
+        print("hurry🤩, You win🥳")
 
     elif(computer == 0 and you == 1):
-        print("Oh, You lose")
+        print("Oh🙁, You lose😐")
 
     else:
-        print("Oho, there is some issue")
+        print("Oho😐, there is some issue🙄")

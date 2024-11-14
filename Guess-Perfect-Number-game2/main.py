@@ -12,12 +12,12 @@ while (a != n):
     a = int(input("Guess the number: "))
 
     if (a>n):
-        print("select lower number")
+        print("select lower number -")
         guesnum += 1
 
     elif (a<n):
-        print("select higher number")
+        print("select higher number +")
         guesnum += 1
 
-print(f"Hurry 🤩, You guess it the number {n} correct in {guesnum} attempts.")
-print("Congratulation🥳", "Let's play once again!")
+print(f"Hurry 🤩, You guess it, the number {n} correct in {guesnum} attempts.🤓")
+print("Congratulation🥳", "Let's play once again!😉")
